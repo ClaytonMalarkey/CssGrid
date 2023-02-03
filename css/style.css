@@ -29,3 +29,8 @@ a{
     background-color: red;
     accent-color: blue;
 }
+article{
+    flex:auto;
+    float:right;
+    grid: 200px 200px 200px;
+}
