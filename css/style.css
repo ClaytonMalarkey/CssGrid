@@ -18,3 +18,14 @@ article{
     float: right;
     flex-flow: auto;
 }
+#mainnav{
+    flex:auto;
+    float:left;
+    grid-row: inherit;
+    grid: 200px 200px 200px;
+}
+a{
+    color:white;
+    background-color: red;
+    accent-color: blue;
+}
