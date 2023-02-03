@@ -1,0 +1,20 @@
+#gridshift {
+    grid: 200px 200px 200px;
+}
+.art1 {
+    grid: 200px 200px 200px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+article{
+    grid:flex;
+    flex-direction: left;
+    flex-wrap: auto;
+    flex: left;
+    float: left;
+    flood-opacity: pink;
+    float: right;
+    flex-flow: auto;
+}
